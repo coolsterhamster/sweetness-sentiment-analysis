@@ -18,6 +18,7 @@ Ultimately, providing insights into subjective taste and the social language of 
 ---
 
 ### Project Structure
+```bash
 
 ── amazon-fine-food-reviews/
    ├── Reviews.csv                 
