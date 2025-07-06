@@ -1,9 +1,12 @@
 ## How Sweet: Sweetness Sentiment Analysis in Amazon Food Reviews
 
 ### Project Overview
+
 This project focuses on analyzing how people express their emotional responses to sweetness in Amazon food and drink reviews. 
 Moving beyond general sentiment, it aims to uncover nuanced taste perceptions, preference expressions, and the specific vocabulary used to describe their feeling about sweentness. 
 Ultimately, providing insights into subjective taste and the social language of sweetness.
+
+
 ---
 
 ### Key Features & Methodology
