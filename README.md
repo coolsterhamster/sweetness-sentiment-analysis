@@ -34,7 +34,7 @@ Ultimately, providing insights into subjective taste and the social language of 
 │       ├── best_svc_model.pkl
 │       └── best_random_forest_model.pkl
 ├── README.md                       
-└── How_Sweet_Cleaned.ipynb
+└── HowSweet.ipynb
 ```
 ---
 
