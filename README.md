@@ -18,23 +18,21 @@ Ultimately, providing insights into subjective taste and the social language of 
 ---
 
 ### Project Structure
-```bash
-
-── amazon-fine-food-reviews/
-   ├── Reviews.csv                 
-   ├── sweet_reviews_subset.csv    
-   ├── sweet_reviews_cleaned.csv   
-   ├── manual_labeling_sample.csv  
-   ├── manual_labeling_sample_done.csv
-   └── models/                     
-       ├── best_logistic_regression_model.pkl
-       ├── best_svc_model.pkl
-       └── best_random_forest_model.pkl
-── README.md                       
-── How_Sweet_Cleaned.ipynb
-
-
-
+```
+.
+├── amazon-fine-food-reviews/
+│   ├── Reviews.csv                 
+│   ├── sweet_reviews_subset.csv    
+│   ├── sweet_reviews_cleaned.csv   
+│   ├── manual_labeling_sample.csv  
+│   ├── manual_labeling_sample_done.csv 
+│   └── models/                     
+│       ├── best_logistic_regression_model.pkl
+│       ├── best_svc_model.pkl
+│       └── best_random_forest_model.pkl
+├── README.md                       
+└── How_Sweet_Cleaned.ipynb
+```
 ---
 
 ### Key Outcomes
