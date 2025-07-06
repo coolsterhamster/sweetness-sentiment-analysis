@@ -1,12 +1,12 @@
-# How Sweet: Sweetness Sentiment Analysis in Amazon Food Reviews
+## How Sweet: Sweetness Sentiment Analysis in Amazon Food Reviews
 
-## Project Overview
+### Project Overview
 This project focuses on analyzing how people express their emotional responses to sweetness in Amazon food and drink reviews. 
 Moving beyond general sentiment, it aims to uncover nuanced taste perceptions, preference expressions, and the specific vocabulary used to describe their feeling about sweentness. 
 Ultimately, providing insights into subjective taste and the social language of sweetness.
 ---
 
-## Key Features & Methodology
+### Key Features & Methodology
 
 - **Targeted Data Extraction**: Focused on reviews mentioning "sweet" and their surrounding context from the Amazon Fine Food Reviews dataset
 - **Comprehensive Preprocessing**: Utilized SpaCy for tokenization, lemmatization, and custom stopword removal (preserving negations)
@@ -17,9 +17,8 @@ Ultimately, providing insights into subjective taste and the social language of 
 - **Interactive Demo**: A Gradio-based web interface for real-time, interactive sentiment analysis of new text inputs
 ---
 
-## Project Structure
+### Project Structure
 
-.
 ├── amazon-fine-food-reviews/
 │   ├── Reviews.csv                 
 │   ├── sweet_reviews_subset.csv    
@@ -37,7 +36,7 @@ Ultimately, providing insights into subjective taste and the social language of 
 
 ---
 
-## Key Outcomes
+### Key Outcomes
 
 - A functional sentiment analysis pipeline for nuanced sweetness expressions
 - Trained and evaluated multiple machine learning models, demonstrating their ability to classify subjective taste preferences
@@ -46,7 +45,7 @@ Ultimately, providing insights into subjective taste and the social language of 
 
 ---
 
-## Future Work
+### Future Work
 
 - Expand Labeled Dataset: Increase the size of the manually labeled data, potentially leveraging active learning
 
